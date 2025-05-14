@@ -12,15 +12,16 @@ Explorar como ferramentas de IA (como o ChatGPT) podem ser utilizadas para:
 
 ## 📂 Estrutura do Repositório
 
+```bash
 📦 desafio-vendas-ai/
 ├── planilhas/
-│ └── relatorio_vendas.xlsx # Planilha de dados simulados de vendas
+│   └── relatorio_vendas.xlsx        # Planilha de dados simulados de vendas
 ├── insights/
-│ └── insights_gerados.md # Insights gerados com IA
+│   └── insights_gerados.md          # Insights gerados com IA
 ├── prompts/
-│ └── prompts_utilizados.md # Lista de prompts utilizados na análise
-└── README.md # Este arquivo
-
+│   └── prompts_utilizados.md        # Lista de prompts utilizados na análise
+└── README.md                        # Este arquivo
+```
 
 ## 📈 Dados Utilizados
 
