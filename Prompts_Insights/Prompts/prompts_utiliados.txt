@@ -1,0 +1,23 @@
+🔎 Prompts Utilizados para Geração dos Insights com ChatGPT
+
+Análise geral da planilha de vendas:
+Você está recebendo uma planilha com dados de vendas contendo as colunas: Data da Venda, Produto, Categoria, Região, Quantidade Vendida e Valor Total. 
+Analise os dados e gere os principais insights comerciais que podem ser extraídos.
+
+Produto mais vendido:
+Com base nos dados fornecidos, qual foi o produto mais vendido em termos de quantidade? Forneça também o total de unidades vendidas.
+
+Categoria com maior faturamento:
+Qual categoria de produtos gerou o maior faturamento total? Apresente também o valor total arrecadado por essa categoria.
+
+Região com maior número de vendas:
+Qual região teve o maior volume de vendas em termos de unidades vendidas?
+
+Volume total e média de vendas:
+Qual foi o faturamento total das vendas? E qual a média de valor por venda?
+
+Análise temporal de vendas:
+Qual foi o dia com o maior volume de vendas e qual foi o dia com o menor? Considere o volume como a multiplicação entre quantidade e valor total.
+
+Produto com maior faturamento individual:
+Qual produto teve o maior faturamento médio por venda (valor total dividido pela quantidade vendida)?

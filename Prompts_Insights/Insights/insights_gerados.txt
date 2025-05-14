@@ -1,0 +1,22 @@
+🧠 Insights Extraídos da Planilha de Vendas
+
+Produto mais vendido em quantidade
+O produto com maior número de unidades vendidas foi o Notebook Pro X, com um total de 638 unidades no período analisado.
+
+Categoria com maior faturamento
+A categoria Eletrônicos foi a que mais gerou receita, somando aproximadamente R$ 80.000,00 em vendas.
+
+Região com mais vendas
+A região Sudeste foi responsável pelo maior volume de vendas em quantidade, ultrapassando 700 unidades vendidas.
+
+Faturamento total e média por venda
+O faturamento total registrado no período foi de aproximadamente R$ 125.000,00, com uma média de R$ 4.166,67 por venda.
+
+Dia com maior volume de vendas
+O dia com maior volume de vendas (considerando a multiplicação entre quantidade e valor) foi 15 de janeiro de 2024.
+
+Dia com menor volume de vendas
+O menor volume de vendas foi registrado no dia 22 de janeiro de 2024.
+
+Produto com maior faturamento individual
+Apesar de não ser o mais vendido em quantidade, o Smartphone Ultra teve o maior faturamento individual médio por venda.
